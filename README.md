@@ -22,3 +22,9 @@
   <a href = "mailto:caioantonioskrua@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-antonio-skura-007939317/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Caio-Skura/<seu-repositorio>/main/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Caio-Skura/<seu-repositorio>/main/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Caio-Skura/<seu-repositorio>/main/dist/github-snake.svg" />
+</picture>
