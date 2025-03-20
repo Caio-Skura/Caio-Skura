@@ -23,8 +23,5 @@
   <a href="https://www.linkedin.com/in/caio-antonio-skura-007939317/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.3.0
